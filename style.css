@@ -1,0 +1,12 @@
+/* general */
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: #000;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+}
